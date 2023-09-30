@@ -14,14 +14,14 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
 </p>
 </div>
 
-3) Implementación
+2) Implementación
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://youtu.be/JX_vcEQwUKw" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20simulacion%20horizontal.png" 
+<a href="https://youtu.be/JX_vcEQwUKw" target="_blank"><img src="https://github.com/victordavila2311/LAB2Robotica_Manuel_Victor/blob/main/imagenes%20lab%202/imagen%20implementacion.png" 
 alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a> 
 </p>
 </div>
-4) resultado implementacion
+3) resultado implementacion
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LAB2Robotica_Manuel_Victor/blob/main/imagenes%20lab%202/resultado%20implementacion.jpeg" width="300px">
