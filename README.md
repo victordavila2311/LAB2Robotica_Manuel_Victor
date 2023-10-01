@@ -29,7 +29,6 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
 </div>
 4) Código RAPID
 <div>
-<p style = 'text-align:center;' align="center">
   MODULE Module1
         CONST robtarget Target_10_2:=[[151.956,135.501,-10],[0.707106781,0,0,0.707106781],[0,-2,1,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_10:=[[151.956,135.501,0],[0.707106781,0,0,0.707106781],[0,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
@@ -265,27 +264,6 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
     CONST robtarget Target_2140:=[[-117.115812609,437.380464058,-555.898830526],[0.654216666,0.328979684,-0.564091866,0.381540677],[0,0,-1,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_2150:=[[204.006,380.705938586,-619.675051892],[0.450873103,0.544714094,-0.544714094,0.450873103],[0,0,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     CONST robtarget Target_2160:=[[223.05767633,386.247950642,-455.700408414],[0.078798459,-0.437186278,-0.539494345,0.715265555],[-1,0,0,0],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
-!***********************************************************
-    !
-    ! Module:  Module1
-    !
-    ! Description:
-    !   <Insert description here>
-    !
-    ! Author: macuser
-    !
-    ! Version: 1.0
-    !
-    !***********************************************************
-    
-    
-    !***********************************************************
-    !
-    ! Procedure main
-    !
-    !   This is the entry point of your program
-    !
-    !***********************************************************
     PROC main()
         !Add your code here
         Reset DO_01;
@@ -316,7 +294,6 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
                 Reset DO_03;
             ENDIF
         ENDWHILE
-
     ENDPROC
     PROC V()
         MoveL Target_10_2,v50,z100,MyNewTool\WObj:=Workobject_1;
@@ -579,16 +556,11 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
         MoveL Target_2030,v50,z0,MyNewTool\WObj:=Workobject_1;
         MoveL Target_2040,v50,z0,MyNewTool\WObj:=Workobject_1;
     ENDPROC
-
     PROC HOME()
         MoveL Target_2100,v50,z0,MyNewTool\WObj:=Workobject_1;
     ENDPROC
     PROC TC()
         MoveL Target_2160,v50,z0,MyNewTool\WObj:=Workobject_1;
-    ENDPROC
-
-
-    
+    ENDPROC    
 ENDMODULE
-</p>
 </div>
