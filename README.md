@@ -27,5 +27,4 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
 <img src="https://github.com/victordavila2311/LAB2Robotica_Manuel_Victor/blob/main/imagenes%20lab%202/resultado%20implementacion.jpeg" width="300px">
 </p>
 </div>
-4) Código RAPID
 
