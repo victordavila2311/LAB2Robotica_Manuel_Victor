@@ -3,13 +3,13 @@
 - Victor Manuel Dávila Castañeda.
 - Manuel Felipe Carranza Montenegro.
 ## Descripción de la solución planteada
-
+En cuanto a la creacion de trayectorias y de la herramienta se utiliazaron las mismias que se habian desarrollado para el laboratorio 1 y en el codigo se añadio un loop infinito con dos IF condicionales para saber si se estaban accionando las entradas y dentro de estos condicionales se accionaron las salidas correspondientes 
 ## Video, simulación e implementación (hacer click en las imagenes)
 
 1) Simulación
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="https://youtu.be/QPYjsCDeQc4" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20simulacion%20horizontal.png" 
+<a href="https://youtu.be/eCq7w-T6ZTA"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20simulacion%20horizontal.png" 
 alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a> 
 </p>
 </div>
