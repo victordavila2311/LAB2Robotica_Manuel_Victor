@@ -21,7 +21,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
 alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a> 
 </p>
 </div>
-3) resultado implementacion
+3) Resultado Implementación
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LAB2Robotica_Manuel_Victor/blob/main/imagenes%20lab%202/resultado%20implementacion.jpeg" width="300px">
