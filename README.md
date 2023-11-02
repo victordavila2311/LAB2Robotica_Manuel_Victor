@@ -87,11 +87,11 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
 </p>
 </div>
 
-4) Herramienta Rota por rl Profe Pedro :(
+4) Herramienta Rota por el Profe Pedro :(
 
 <div>
 <p style = 'text-align:center;' align="center">
-![Herramienta Rota](https://github.com/victordavila2311/LAB2Robotica_Manuel_Victor/assets/82252851/b486c3f6-52fa-4aa9-b2fa-e09b9d9a2ee1)
+<img width="541" alt="Herramienta Rota" src="https://github.com/victordavila2311/LAB2Robotica_Manuel_Victor/assets/82252851/918678a9-654b-4bf2-943a-94776402aa91">
 </p>
 </div>
 
